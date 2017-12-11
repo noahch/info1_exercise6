@@ -2,12 +2,19 @@
 This is a simple example.
 ## Heading 2
 <div>This is a HTML snippet</div>
+
 ---
+
 [Link to Google](http://www.google.ch)
+
 <a name='8'></a>##### Heading to test anchor
+
 [LINK TO PAGE 2](page2.md)
+
 #### Table with first line header
+
 Mock Table
+
 |Data|Data|Data|Data|Data|
 |---|---|---|---|---|
 |Data|Data|Data|Data|Data|
@@ -16,6 +23,7 @@ Mock Table
 |Data|Data|Data|Data|Data|
 
 ---
+
 #### Table without first line header
 Mock Table
 ||||||
