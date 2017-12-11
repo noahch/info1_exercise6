@@ -7,7 +7,7 @@ This is a simple example.
 
 [Link to Google](http://www.google.ch)
 
-<a name='8'></a>##### Heading to test anchor
+<a name='8'></a> ##### Heading to test anchor
 
 [LINK TO PAGE 2](page2.md)
 
